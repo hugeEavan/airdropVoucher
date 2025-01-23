@@ -1,0 +1,23 @@
+{
+  "name": "Airdrop #1472",
+  "description": "InitVerse Chain Airdrop",
+  "image": "ipfs://NewUriToReplace/1472.png",
+  "dna": "fc81118480128f3b7a3ec27528d66ce9a48f4f4a",
+  "edition": 1472,
+  "date": 1737613723196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "2"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
