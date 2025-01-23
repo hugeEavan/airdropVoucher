@@ -1,10 +1,10 @@
 {
   "name": "Airdrop #2614",
   "description": "InitVerse Chain Airdrop",
-  "image": "ipfs://NewUriToReplace/2614.png",
-  "dna": "e1bf60b5d0e3a8970417fd9e912963cb4f246076",
+  "image": "https://raw.githubusercontent.com/hugeEavan/airdropVoucher/refs/heads/master/images/2614.png",
+  "dna": "2d4744003390be3a04e5b1de5c4d21bd3257185e",
   "edition": 2614,
-  "date": 1737613762310,
+  "date": 1737615559901,
   "attributes": [
     {
       "trait_type": "Background",
